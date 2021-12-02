@@ -10,7 +10,7 @@
 
 # Badges
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/35212a8380324b3ca2f6ef6d7048ef31)](https://www.codacy.com/gh/Vishnu-prasath/M2_Embedded_Seat_Heater/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vishnu-prasath/M2_Embedded_Seat_Heater&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3da66d2b5ad94620913600f9979c0987)](https://www.codacy.com/gh/MidhunChakravarthi-06/M2-Embedded_Smartlock/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MidhunChakravarthi-06/M2-Embedded_Smartlock&amp;utm_campaign=Badge_Grade)
 [![Code Quality Score](https://api.codiga.io/project/30191/score/svg)](https://app.codiga.io/public/project/30191/M2_Embedded_Seat_Heater/dashboard)
 [![Code Grade](https://api.codiga.io/project/30191/status/svg)](https://app.codiga.io/public/project/30191/M2_Embedded_Seat_Heater/dashboard)
 
